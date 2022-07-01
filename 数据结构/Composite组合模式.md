@@ -137,7 +137,7 @@ for (auto &e : elements)
 
 #### 1、结构
 
-![image-20220701222640612](C:\Users\tjumc\AppData\Roaming\Typora\typora-user-images\image-20220701222640612.png)
+![image](https://user-images.githubusercontent.com/106053649/176916421-296eba28-d8e7-4150-b8fa-cc961bbaf619.png)
 
 - 其中Add，Remove不论放在父类、子类都很尴尬
   - 如果放在子类，必须实现，不然也是抽象类。但Leaf节点实现上述两个方法没有意义
