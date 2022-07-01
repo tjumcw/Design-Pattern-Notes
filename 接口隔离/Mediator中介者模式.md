@@ -18,7 +18,7 @@
 
 ### 二、结构
 
-![image-20220701162530121](C:\Users\tjumc\AppData\Roaming\Typora\typora-user-images\image-20220701162530121.png)
+![image](https://user-images.githubusercontent.com/106053649/176858780-79b85a1e-4b2c-450c-b679-9cf2484f7a4c.png)
 
 - 修改后，对象1发消息调用对象3时，不直接发消息。1先发给中介者M，M再发给3。
 - 需要定义消息通知的规范，比较复杂
