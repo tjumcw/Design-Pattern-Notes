@@ -21,7 +21,7 @@
 ![image-20220701162530121](C:\Users\tjumc\AppData\Roaming\Typora\typora-user-images\image-20220701162530121.png)
 
 - 修改后，对象1发消息调用对象3时，不直接发消息。1先发给中介者M，M再发给3。
-- 需要定义消息通知的规范
+- 需要定义消息通知的规范，比较复杂
 
 
 
