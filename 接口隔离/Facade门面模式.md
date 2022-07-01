@@ -10,7 +10,7 @@
 
 #### 2、动机
 
-![image-20220630224608009](C:\Users\mcw\AppData\Roaming\Typora\typora-user-images\image-20220630224608009.png)
+![image](https://user-images.githubusercontent.com/106053649/176859368-9d809045-c73b-41ff-b841-15374d084ab0.png)
 
 -  上述A方案的问题在于组件的客户和组件中各种复杂的子系统有了过多的耦合
 - 随着外部客户程序和各子系统的演化。这种过多的耦合面临很多变化的挑战
@@ -21,7 +21,7 @@
 
 - 为子系统中的一组接口提供一个一致（稳定）的界面，Facade模式定义了一个高层接口，这个接口使得这一子系统更加容易使用（复用）。
 
-![image-20220630225053777](C:\Users\mcw\AppData\Roaming\Typora\typora-user-images\image-20220630225053777.png)
+![image](https://user-images.githubusercontent.com/106053649/176859488-8c11a172-d24a-4cec-9261-9440bc9147d3.png)
 
 - 体现了子系统内部和外部的解耦
 
