@@ -222,7 +222,7 @@ void Process(){
 
 类的关系如下图
 
-![image-20220629184506053](C:\Users\mcw\AppData\Roaming\Typora\typora-user-images\image-20220629184506053.png)
+![image](https://user-images.githubusercontent.com/106053649/176860121-adce712c-1b4a-4897-a8d5-fb5fcf87386c.png)
 
 其中，类的规模巨大（m种操作，n种类型的流），如红字所示。
 
@@ -609,7 +609,7 @@ void Process(){
   - 扩展操作如加密流必须传流对象（如文件流），这些扩展操作是在谁的基础上再去做（装饰模式的含义）
 - 见下图类关系
 
-![image-20220629192836316](C:\Users\mcw\AppData\Roaming\Typora\typora-user-images\image-20220629192836316.png)
+![image](https://user-images.githubusercontent.com/106053649/176860344-ddd6064d-4746-42f8-8722-d394c690f793.png)
 
 - 注：DecoratorStream中有一个Stream指针，指向左边三个流对象中的某一个
 
