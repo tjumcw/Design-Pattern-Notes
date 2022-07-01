@@ -15,7 +15,7 @@
 - 这样以后就可以将该对象恢复到原先保存的状态
   - 类似快照的思想
 
-![image-20220701204747113](C:\Users\tjumc\AppData\Roaming\Typora\typora-user-images\image-20220701204747113.png)
+![image](https://user-images.githubusercontent.com/106053649/176901071-677dff6a-b8fb-4c9f-afd1-a3e4aa21a478.png)
 
 - CareTaker即使用备忘录的人，在下方示例代码中即为main函数调用
 
