@@ -21,7 +21,7 @@
 
 #### 1、类图
 
-![image-20220701154052909](C:\Users\tjumc\AppData\Roaming\Typora\typora-user-images\image-20220701154052909.png)
+![image](https://user-images.githubusercontent.com/106053649/176858930-0d6733fc-5b8a-44e6-af38-c46a03a0ed45.png)
 
 - 其中，红色稳定，蓝色变化
 
