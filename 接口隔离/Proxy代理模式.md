@@ -14,7 +14,7 @@
 
 - 为其他对象提供一种代理以控制（隔离，使用接口）对这个对象的访问
 
-![image-20220630231622407](C:\Users\mcw\AppData\Roaming\Typora\typora-user-images\image-20220630231622407.png)
+![image](https://user-images.githubusercontent.com/106053649/176859225-0ae7452e-dd71-4db5-8136-109ba8bfad9d.png)
 
 - 接口是Subject（抽象基类）
 - 真正对象是RealSubject
