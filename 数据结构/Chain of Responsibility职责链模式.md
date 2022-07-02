@@ -159,7 +159,7 @@ int main(){
 
 #### 1、结构
 
-![image-20220702144220815](C:\Users\tjumc\AppData\Roaming\Typora\typora-user-images\image-20220702144220815.png)
+![image](https://user-images.githubusercontent.com/106053649/176989976-e4f98644-243e-4990-b1a3-7069660d534c.png)
 
 - 红色稳定，蓝色变化，可通过扩展子类来增加新的处理方式
 
