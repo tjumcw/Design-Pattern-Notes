@@ -137,7 +137,7 @@ for (auto &e : elements)
 
 #### 1、结构
 
-![image-20220701222640612](C:\Users\tjumc\AppData\Roaming\Typora\typora-user-images\image-20220701222640612.png)
+![image](https://user-images.githubusercontent.com/106053649/176916421-296eba28-d8e7-4150-b8fa-cc961bbaf619.png)
 
 - 其中Add，Remove不论放在父类、子类都很尴尬
   - 如果放在子类，必须实现，不然也是抽象类。但Leaf节点实现上述两个方法没有意义
@@ -148,7 +148,7 @@ for (auto &e : elements)
 
 - 但这都不是大问题，重点在于对于单个对象和组合对象，为客户提供了一致的访问方法
 
-#### 1、总结
+#### 2、总结
 
 - Composite模式采用树形结构来实现普遍存在的对象容器，从而将”一对多“的关系转化为”一对一“的关系
   - Invoke函数内只需传一个抽象基类的指针（引用）即可，无需考虑到底是树节点还是叶子节点
