@@ -236,7 +236,7 @@ int main()
 
 #### 1、结构
 
-![image-20220702165845922](C:\Users\tjumc\AppData\Roaming\Typora\typora-user-images\image-20220702165845922.png)
+![image](https://user-images.githubusercontent.com/106053649/176994343-6785269f-0f65-464d-b5b2-83df3210bd50.png)
 
 - 红色稳定，蓝色变化
 
