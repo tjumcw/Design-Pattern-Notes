@@ -322,7 +322,7 @@ public:
 };
 ```
 
-- 实际使用类似上一届工厂模式，也是在EmployeeDAO的构造函数中传入对应的具体工厂如SqlDBFactory，这样
+- 实际使用类似上一节工厂模式，也是在EmployeeDAO的构造函数中传入对应的具体工厂如SqlDBFactory，这样
   - IDBFactory的父类指针dbFactory指向了子类的SqlDBFactory对象，多态
   - IDBConnection类型的父类指针指向由dbFactory（实际是多态创建）生产的SqlConnection对象
 
