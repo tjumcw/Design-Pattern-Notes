@@ -161,7 +161,7 @@ public:
 //---------------------------合并后-----------------------
 class BinarySplitter : public ISplitter{
     virtual ISplitter* clone(){
-        return new BinarySplitter*this);
+        return new BinarySplitter(*this);
     }
 };
 ```
